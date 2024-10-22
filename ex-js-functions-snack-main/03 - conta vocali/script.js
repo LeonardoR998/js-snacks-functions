@@ -18,7 +18,6 @@ function countVowels(str) {
 
 // Invoca la funzione qui e stampa il risultato in console
 
-const exampleString = "Ciao a tutti!";
 const vowelCount = countVowels(exampleString);
 console.log(vowelCount);
 
